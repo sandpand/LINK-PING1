@@ -13,3 +13,6 @@ Fråga 2: Vem spelar Gandalf i samma filmserie?
   4. Graham McTavish
 
 Fråga 1 svar:   3. Ian McKellen
+
+
+Fråga 3:
