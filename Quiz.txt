@@ -22,3 +22,12 @@ Fråga 3: Vem är duktigast i vårt team?
   4. Eric
 
 Fråga 3 svar:   Alla
+
+
+Fråga 4: Vilken färg är en citron?
+  1. Gul
+  2. Röd
+  3. Blå
+  4. Grön
+
+Fråga 4 svar:   1. Gul
